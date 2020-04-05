@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Scrubby</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="preference_file_key">com.hackthecrisis.scrubby.PREFERENCE_FILE_KEY</string>
+    <string name="large_text">
+        <b>Clean hands protect against infection\n</b>
+        "\nWashing your hands properly takes around 20 seconds, using the images below."
+        "Start the countdown timer as help.\n"
+
+    </string>
+    <string name="countdownFinishedText">Done!</string>
+    <string name="countdownStartValue">20</string>
+    <string name="seconds">seconds</string>
+    <string name="clock_icon">Clock icon</string>
+    <!--
+            "Washing your hands is easy, and it’s one of the most effective ways to prevent the spread"
+        "of germs.\n\n"
+        "Follow these five steps every time.\n<b></b>"
+        "1. <b>Wet</b> your hands with clean, running water (warm or cold). \n"
+        "2. <b>Lather</b> your hands by rubbing them together with the soap. Lather the backs of your hands, between your fingers, and under your nails. \n"
+        "3. <b>Scrub</b> your hands for at least 20 seconds by starting the timer \n"
+        "4. <b>Rinse</b> your hands well under clean, running water. \n"
+        "5. <b>Dry</b> your hands using a clean towel or air dry them. \n"
+
+        "For more details see images bellow\n"
+    -->
+</resources>

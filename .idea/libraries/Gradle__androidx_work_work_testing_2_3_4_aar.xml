@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.work:work-testing:2.3.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/11462b2a5fac0306d55858e065dcb188/work-testing-2.3.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/11462b2a5fac0306d55858e065dcb188/work-testing-2.3.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.work/work-testing/2.3.4/1d1b06e9f251ec8234546143fa85f262a626e408/work-testing-2.3.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
